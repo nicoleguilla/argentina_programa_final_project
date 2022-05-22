@@ -1,0 +1,21 @@
+.row {
+    padding: 20px;
+    background-color: rgb(212, 215, 221);
+}
+
+.container-p {
+    width: auto;
+}
+
+part-1, part-2 {
+    display: inline-block;
+    text-align: justify;
+}
+
+.img-proyect {
+    box-shadow: 1px 1px 10px #3a3737;
+}
+
+.title { 
+    text-align: center;
+}

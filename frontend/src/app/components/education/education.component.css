@@ -1,0 +1,13 @@
+.row {
+    padding: 20px;
+}
+div {
+    background-color: rgb(212, 215, 221);
+}
+.study-name, .study-date {
+    font-weight: bold;
+    display: inline;
+}
+.title { 
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.row {
+    padding: 30px;
+    background-color: rgb(212, 215, 221); 
+}
+
+.title { 
+    padding: 40px;
+    text-align: center;
+}
